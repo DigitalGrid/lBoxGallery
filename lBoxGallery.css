@@ -12,7 +12,7 @@
 }
 
 .lBG-lightbox-set{
-
+	margin: 20px 10px 20px 10px;
 }
 
 .lBG-lightbox-set img{
@@ -27,6 +27,10 @@
 	z-index:999;
 	border: solid 8px #FAFAFA;
 	border-radius: 4px;
+} 
+
+#lBG-lightbox img{
+	vertical-align: middle;
 } 
 
 img:hover.lBG-lightbox{
@@ -48,19 +52,25 @@ img:hover.lBG-lightbox{
 #lBG-title {
 	color: #CCCCCC;
 	font-weight: bold;
-	padding: 15px;
+	padding: 0px 15px 0px 15px;
+}
+
+#lBG-title p {
+	vertical-align: middle;
 }
 
 
 /* Style for the gallery
 -------------------------
 */
-.lBG-gallery-set{
-	/*text-align: center;*/
+
+.lBG-gallery-set {
+	margin: 20px 10px 20px 10px;
 }
 
 #lBG-gallery{
 	list-style-type: none;
+	padding: 0px;
 }
 
 #lBG-gallery li {
@@ -68,7 +78,6 @@ img:hover.lBG-lightbox{
 }
 
 #lBG-gallery li img {
-
 	border: solid 3px #FAFAFA;
 	border-radius: 2px;
 	margin: 5px 5px 8px 5px;
@@ -133,7 +142,3 @@ img:hover.lBG-lightbox{
 	top: 10px;
 	right: 15px;
 }
-
-
-
-
