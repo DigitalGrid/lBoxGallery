@@ -14,7 +14,7 @@ How to install
 <link rel="stylesheet" type="text/css" href="lBoxGallery.css"> 
 ```
 
-* Include lBoxGallery.js after loading jQuery:
+* Include jquery.lBoxGallery.js after loading jQuery:
 
 ```sh
 <script src="jquery.lBoxGallery.js"></script>
