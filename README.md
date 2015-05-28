@@ -28,7 +28,7 @@ How to install
 <img class='lBG-lightbox' src='img/abstract-q-c-640-640-1.jpg' width='200px' /> 
 ```
 
-** Note: ** You will have to specify width or height for the image to acquire the satisfied size, if you don't you will get the full image size
+**Note:** You will have to specify width or height for the image to acquire the satisfied size, if you don't you will get the full image size
 
 * If you want to group more than one image you can add these images inside a div with the class lBG-lightbox-set like this:
 
